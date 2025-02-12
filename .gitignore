@@ -1,4 +1,4 @@
-out
+learn-file-storage-s3-golang-starter
 *.db
 .env
 assets/
